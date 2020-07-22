@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(330, 57%, 43%) ;
+    /* 
+    This is how to insect image */
+    background-image: url(image/WIN_20200722_14_34_01_Pro.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+
+    
+
+
+}
